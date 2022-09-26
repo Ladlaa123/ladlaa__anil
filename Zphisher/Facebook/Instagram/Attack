@@ -1,0 +1,33 @@
+Installation ------OF ZPHISHER-----
+FOR FACEBOOK INSTAGRAM MAINLY---🎁
+$apt update
+
+$apt upgrade
+
+$apt install git
+
+$git clone --depth=1 https://github.com/htr-tech/zphisher.git
+
+$ cd zphisher
+
+$ls
+
+$ bash zphisher.sh
+
+
+FEATURES-----
+
+Latest and updated login pages.
+Beginners friendly
+Multiple tunneling options
+Localhost
+Ngrok
+Cloudflared
+LocalXpose
+Mask URL support
+Docker support
+
+
+
+
+
